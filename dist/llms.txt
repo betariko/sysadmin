@@ -1,0 +1,2 @@
+## Pages
+- [BETARIKO - Jasa Sysadmin & Managed VPS Profesional Indonesia](/): Jasa setup VPS, migrasi server, install panel, dan optimasi performa server. Melayani LAMP, LEMP, Python, Node.js, dan berbagai aplikasi open source.
